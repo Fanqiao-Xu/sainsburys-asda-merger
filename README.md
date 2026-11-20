@@ -19,15 +19,15 @@ Should the CMA allow Sainsbury's to merge with Asda? The CMA blocked the deal on
 3. **The result depends on the margin.** Sainsbury's reports a 6.9% gross margin, but its cost of sales includes all store running costs. Using its own accounts, its variable margin is between 6.9% and 22.6%. The break-even margin is 18.1%, and the evidence suggests the true margin is near the upper end.
 4. **Even a small price rise is costly.** A 1% price rise would cost the two firms' customers about £519m a year (likely an overestimate).
 
-![Area A: HHI looks safe, GUPPI shows a risk](figures/area_a_hhi_vs_guppi.png)
+![Area A: HHI looks safe, GUPPI shows a risk](area_a_hhi_vs_guppi.png)
 
 ## What is in this repository
 
 | File | What it is |
 |---|---|
-| `report/Executive_Summary.pdf` | Recommendation, findings, counterarguments, limitations and sources |
-| `model/Sainsburys_Asda_merger_model.xlsx` | The Excel model, with formulas |
-| `figures/area_a_hhi_vs_guppi.png` | Summary chart for one local area |
+| `Executive_Summary.pdf` | Recommendation, findings, counterarguments, limitations and sources |
+| `Sainsburys_Asda_merger_model.xlsx` | The Excel model, with formulas |
+| `area_a_hhi_vs_guppi.png` | Summary chart for one local area |
 
 ## How to use the model
 
